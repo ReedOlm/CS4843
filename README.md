@@ -1,4 +1,4 @@
-# CS4843 - A Repository Dedicated to my Cloud Computing Work
+# CS4843 - A Repository Hosting My Assignments
 
 ## Table of Contents
 [Assignment 0](#Assignment0)</br>
