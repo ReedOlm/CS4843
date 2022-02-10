@@ -1,4 +1,8 @@
 # CS4843
+## Table of Contents
+[Assignment 0](https://github.com/ReedOlm/CS4843#assignment-0---basiccicd)
+[Assignment 1](https://github.com/ReedOlm/CS4843#assignment-1---kittiesoftheweek)
+
 Repository dedicated to CS4843 work
 
 ## Assignment 0 - basicCICD
