@@ -1,4 +1,4 @@
-# CS4843 - A Repository Hosting My Assignments
+# CS4843 - A Repository Dedicated to Hosting My Assignments
 
 ## Table of Contents
 [Assignment 0](#Assignment0)</br>
