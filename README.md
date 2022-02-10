@@ -15,7 +15,7 @@ Repository dedicated to CS4843 work
   <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
   <li>Allowed HTTP GET/HEAD requests for site</li>
   <li>Set up IAM user group as best practice</li>
-  <li>Used personal domain and AWS Certificate Manager to request a certificate to change domain names</li>
-  <li>Cloudfront given domain: <https://d18tkhtwfxyold.cloudfront.net></li>
-  <li>Personal domain that hosts Cloudfront site: <https://www.reedolm.com></li>
+  <li>Used personal domain and AWS Certificate Manager to host Cloudfront distribution on my domain</li>
+  <li>Set CNAMEs to point my domain to Cloudfront</li>
+  <li>Personal domain that hosts Cloudfront site: https://www.reedolm.com</li>
 </ul>
