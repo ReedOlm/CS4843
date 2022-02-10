@@ -19,7 +19,7 @@
   <li>Set up IAM user group as best practice</li>
   <li>Used personal domain and AWS Certificate Manager to host Cloudfront distribution on my domain</li>
   <li>Set CNAMEs to point my domain to Cloudfront</li>
-  <li>Personal domain that hosts Cloudfront site: <a target="_blank" href="https://www.reedolm.com">www.reedolm.com</a></li>
+  <li>Personal domain that hosts Cloudfront site: https://www.reedolm.com</li>
 </ul>
 <h4><a href="https://github.com/ReedOlm/CS4843/tree/main/KittiesOfTheWeek">Link to Repository</a></h4>
 
