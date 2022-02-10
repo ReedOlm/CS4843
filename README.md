@@ -1,11 +1,9 @@
 # CS4843
+## Repository dedicated to CS4843 work
 ## Table of Contents
 [Assignment 0](#Assignment0)</br>
 [Assignment 1](#Assignment1)</br>
 [Assignment 2](#Assignment2)
-
-
-Repository dedicated to CS4843 work
 
 ## Assignment 0 - basicCICD <a name="Assignment0"></a>
 ### Establishing repository, virtual development environment, intro CI/CD
