@@ -7,7 +7,7 @@
 
 ## Assignment 0 - basicCICD <a name="Assignment0"></a>
 ### Establishing repository, virtual development environment, intro CI/CD
-#### [Link to Repository](https://github.com/ReedOlm/CS4843/tree/main/basicCICD)
+<h4><a href="https://github.com/ReedOlm/CS4843/tree/main/basicCICD">Link to Repository</a></h4>
 
 ## Assignment 1 - KittiesOfTheWeek <a name="Assignment1"></a>
 ### Static Cloudfront website using S3 bucket for hosting files
@@ -19,7 +19,8 @@
   <li>Set up IAM user group as best practice</li>
   <li>Used personal domain and AWS Certificate Manager to host Cloudfront distribution on my domain</li>
   <li>Set CNAMEs to point my domain to Cloudfront</li>
-  <li>Personal domain that hosts Cloudfront site: https://www.reedolm.com</li>
+  <li>Personal domain that hosts Cloudfront site: <a target="_blank" href="https://www.reedolm.com">www.reedolm.com</a></li>
 </ul>
-#### [Link to Repository](https://github.com/ReedOlm/CS4843/tree/main/KittiesOfTheWeek)
+<h4><a href="https://github.com/ReedOlm/CS4843/tree/main/KittiesOfTheWeek">Link to Repository</a></h4>
+
 ## Assignment 2 - To Be Announced <a name="Assignment2"></a>
