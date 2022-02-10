@@ -1,5 +1,5 @@
-# CS4843
-## Repository dedicated to CS4843 work
+# CS4843 - A Repository Dedicated to my CS4843 Cloud Computing Work
+
 ## Table of Contents
 [Assignment 0](#Assignment0)</br>
 [Assignment 1](#Assignment1)</br>
