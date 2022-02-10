@@ -17,109 +17,224 @@ Repository dedicated to CS4843 work
   <li>Set up IAM user group as best practice</li>
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-asdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-asdf
+<ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul><ul>
+  <li>Set up private S3 Bucket to store all site files.</li>
+  <li>Launched Cloudfront distribution and pointed to the bucket as an origin</li>
+  <li>Allowed HTTP GET/HEAD requests for site</li>
+  <li>Set up IAM user group as best practice</li>
+</ul>
