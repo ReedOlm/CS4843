@@ -2,7 +2,7 @@
 Repository dedicated to CS4843 work
 
 ## Assignment 0 - basicCICD
-### Establishing repository, virtual development environment, basic CI/CD
+### Establishing repository, virtual development environment, intro CI/CD
 
 ## Assignment 1 - KittiesOfTheWeek
 ### Static Cloudfront website using S3 bucket for hosting files
