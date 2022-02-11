@@ -6,7 +6,7 @@
 [Assignment 2](#Assignment2)
 
 ## Assignment 0 - basicCICD <a name="Assignment0"></a>
-### Establishing repository, virtual development environment, intro CI/CD
+### Establishing repository, virtual development environment in Cloud9, intro CI/CD
 <h4><a href="https://github.com/ReedOlm/CS4843/tree/main/basicCICD">Link to Repository</a></h4>
 
 ## Assignment 1 - KittiesOfTheWeek <a name="Assignment1"></a>
