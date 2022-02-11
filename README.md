@@ -20,6 +20,5 @@
   <li>Set CNAMEs to point my domain to Cloudfront</li>
   <li>Personal domain that hosts Cloudfront site: https://www.reedolm.com</li>
 </ul>
-<h4><a href="https://github.com/ReedOlm/CS4843/tree/main/KittiesOfTheWeek">Link to Repository</a></h4>
 
 ## Assignment 2 - To Be Announced <a name="Assignment2"></a> 
