@@ -5,11 +5,10 @@
 [Assignment 1](#Assignment1)</br>
 [Assignment 2](#Assignment2)
 
-## Assignment 0 - basicCICD <a name="Assignment0"></a>
+## Assignment 0 - basicCICD <a name="Assignment0"></a> <a href="https://github.com/ReedOlm/CS4843/tree/main/basicCICD">Link to Repository</a>
 ### Establishing repository, virtual development environment in Cloud9, intro CI/CD
-<h4><a href="https://github.com/ReedOlm/CS4843/tree/main/basicCICD">Link to Repository</a></h4>
 
-## Assignment 1 - KittiesOfTheWeek <a name="Assignment1"></a>
+## Assignment 1 - KittiesOfTheWeek <a name="Assignment1"></a> <a href="https://github.com/ReedOlm/CS4843/tree/main/KittiesOfTheWeek">Link to Repository</a>
 ### Static Cloudfront website using S3 bucket for hosting files
 <ul>
   <li>Using basic html and css, created a static website to host pictures and videos of my cats</li>
@@ -23,4 +22,4 @@
 </ul>
 <h4><a href="https://github.com/ReedOlm/CS4843/tree/main/KittiesOfTheWeek">Link to Repository</a></h4>
 
-## Assignment 2 - To Be Announced <a name="Assignment2"></a>
+## Assignment 2 - To Be Announced <a name="Assignment2"></a> 
