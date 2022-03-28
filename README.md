@@ -31,6 +31,7 @@
   <li>Deployed a loadbalancing private webserver using a YAML template, with a configurable JSON parameter file to the 2 previously created us-east-1 private subnets using my own AMI/key values</li>
   <li>Created a final EC2 instance as a public Jumpbox inside of the VPC created for the network, and passed it the required keys to allow my personal computer's IP address to SSH into the jumpbox, then was able to ssh into both of my private EC2 servers</li>
   <li>Here is my drawing of what this system essentially looks like when fully deployed. (Has been taken down to avoid being charged by Amazon.):</li>
+  <li>![Drawn Diagram of Network Architecture]()</li>
 </ul>
 
 ## Assignment 3 - To Be Announced <a name="Assignment3"></a> - 
