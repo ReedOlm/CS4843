@@ -30,8 +30,8 @@
   <li>This network framework included 2 VPCs, an InternetGateway, the aforementioned Subnets, a NAT with elastic ip's, and routing tables.</li>
   <li>Deployed a loadbalancing private webserver using a YAML template, with a configurable JSON parameter file to the 2 previously created us-east-1 private subnets using my own AMI/key values</li>
   <li>Created a final EC2 instance as a public Jumpbox inside of the VPC created for the network, and passed it the required keys to allow my personal computer's IP address to SSH into the jumpbox, then was able to ssh into both of my private EC2 servers</li>
-  <li>Here is my drawing of what this system essentially looks like when ful![architectureDiagram](https://user-images.githubusercontent.com/77757673/160315362-2d246ea7-e423-4e12-8a5a-24d1cb3d9311.PNG)
-ly deployed. (Has been taken down to avoid being charged by Amazon.):</li>
+  <li>Here is my drawing of what this system essentially looks like when fully deployed. (Has been taken down to avoid being charged by Amazon.):</li>
+  ![architectureDiagram](https://user-images.githubusercontent.com/77757673/160315362-2d246ea7-e423-4e12-8a5a-24d1cb3d9311.PNG)
   ![Uploading architectureDiagram.PNG…]()
 
 </ul>
