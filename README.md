@@ -43,11 +43,11 @@
   <li><a href="https://drive.google.com/drive/folders/1J596Fjr2qEkI7WR1pLcxc1a0G233ykyX?usp=sharing">Video Demonstration Link</a></li>
   <li>Images of our Dataflow data pipeline charts setup:</li>
   
-  ![architectureDiagram1](/FinalProject_DataflowBigQuery/Image1.PNG)
+  ![architectureDiagram1](/FinalProject_DataflowBigQuery/Image1.png)
   
-  ![architectureDiagram2](/FinalProject_DataflowBigQuery/Image2.PNG)
+  ![architectureDiagram2](/FinalProject_DataflowBigQuery/Image2.png)
   
-  ![architectureDiagram3](/FinalProject_DataflowBigQuery/Image3.PNG)
+  ![architectureDiagram3](/FinalProject_DataflowBigQuery/Image3.png)
   
   <li><a href="https://console.cloud.google.com/storage/browser/_details/dataflow-cloudcomputingdataflow/linecount-00000-of-00001;tab=live_object?project=cloudcomputingdataflow">Google Cloud Storage Link, displaying data AFTER data is piped through Dataflow</a></li>
   <li><a href="https://storage.cloud.google.com/dataflow-cloudcomputingdataflow/linecount-00000-of-00001?_ga=2.228040859.-720083893.1649035167&_gac=1.258673528.1649045030.CjwKCAjwi6WSBhA-EiwA6Niok6GATVCoGJBljVJ8VtvwJfeyLIj5qKI0BZwgwkA3wEPyMWkrgm4RLhoC4RIQAvD_BwE">Verification that Google Dataflow successfully uploaded our data passed in from our Java script</a></li>
