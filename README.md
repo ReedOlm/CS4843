@@ -4,7 +4,7 @@
 [Assignment 0](#Assignment0)</br>
 [Assignment 1](#Assignment1)</br>
 [Assignment 2](#Assignment2)</br>
-[Assignment 3](#Assignment3)
+[Assignment 3](#Assignment3) - FINAL PROJECT
 
 ## Assignment 0 - basicCICD <a name="Assignment0"></a> - <a href="https://github.com/ReedOlm/CS4843/tree/main/basicCICD">Link to Repository</a>
 ### Establishing repository, virtual development environment in Cloud9, intro CI/CD
