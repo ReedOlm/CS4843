@@ -36,7 +36,7 @@
 
 </ul>
 
-## Assignment 3 - Final Project: Google Dataflow and Google Big Query Data Manipulation <a name="Assignment3"></a> -<a href="https://github.com/ReedOlm/CS4843/tree/main/CloudFormationDeployment">Link to Repository</a>
+## Assignment 3 - Final Project: Google Dataflow and Google Big Query Data Manipulation <a name="Assignment3"></a> -<a href="https://github.com/ReedOlm/CS4843/tree/main/FinalProject_DataflowBigQuery">Link to Repository</a>
 ### Creation of a Dataflow and Big Query Pipeline to Manipulate Data (Line Counting)
 <ul>
   <li>Using Cloud terminal we plugged in and executed our Java functions (files found in repository for reference)</li>
